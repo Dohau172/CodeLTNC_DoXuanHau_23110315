@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
+using PhoneStoreDAL.Entities;
+
+namespace PhoneStoreDAL.Interfaces
+{
+    public interface ISalesInvoiceDetailDAO
+    {
+        Task<List<SalesInvoiceDetail>> GetAll();
+        Task<List<SalesInvoiceDetail>> GetBySalesInvoiceId(int salesInvoiceId);
+        Task<SalesInvoiceDetail?> GetById(int id);
+
+        Task<bool> Add(SalesInvoiceDetail entity);
+        Task<bool> Update(SalesInvoiceDetail entity);
+        Task<bool> Delete(int id);
+
+
+    }
+}

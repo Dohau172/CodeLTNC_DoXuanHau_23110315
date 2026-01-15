@@ -1,0 +1,15 @@
+D:\BCSE2023\C#\PhoneStoreDAL\bin\Debug\net10.0\PhoneStoreDAL.dll.config
+D:\BCSE2023\C#\PhoneStoreDAL\bin\Debug\net10.0\PhoneStoreDAL.deps.json
+D:\BCSE2023\C#\PhoneStoreDAL\bin\Debug\net10.0\PhoneStoreDAL.runtimeconfig.json
+D:\BCSE2023\C#\PhoneStoreDAL\bin\Debug\net10.0\PhoneStoreDAL.dll
+D:\BCSE2023\C#\PhoneStoreDAL\bin\Debug\net10.0\PhoneStoreDAL.pdb
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\PhoneStoreDAL.csproj.AssemblyReference.cache
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\PhoneStoreDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\PhoneStoreDAL.AssemblyInfoInputs.cache
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\PhoneStoreDAL.AssemblyInfo.cs
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\PhoneStoreDAL.csproj.CoreCompileInputs.cache
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\PhoneStoreDAL.dll
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\refint\PhoneStoreDAL.dll
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\PhoneStoreDAL.pdb
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\PhoneStoreDAL.genruntimeconfig.cache
+D:\BCSE2023\C#\PhoneStoreDAL\obj\Debug\net10.0\ref\PhoneStoreDAL.dll
